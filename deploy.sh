@@ -6,7 +6,7 @@
 
 ### Edit the following arrays to suit your workflow
 
-DISK_GB_REQUIRED=80
+DISK_GB_REQUIRED=50
 
 EXTENSIONS=(
     "https://github.com/Mikubill/sd-webui-controlnet"
